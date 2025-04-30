@@ -1,0 +1,16 @@
+command_id: 7E0.7E8.2210E5
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E8056210E59B70
+  expected_values:
+    WRX_ODO: 79584
+- response: 7E8056210E59B71
+  expected_values:
+    WRX_ODO: 79586
+- response: 7E8056210E59B75
+  expected_values:
+    WRX_ODO: 79594
+- response: 7E8056210E59B76
+  expected_values:
+    WRX_ODO: 79596

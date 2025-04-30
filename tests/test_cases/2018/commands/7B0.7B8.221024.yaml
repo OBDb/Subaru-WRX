@@ -1,0 +1,64 @@
+command_id: 7B0.7B8.221024
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7B8056210240000
+  expected_values:
+    WRX_FR_VSS: 0
+- response: 7B8056210240002
+  expected_values:
+    WRX_FR_VSS: 2
+- response: 7B805621024003E
+  expected_values:
+    WRX_FR_VSS: 62
+- response: 7B805621024004E
+  expected_values:
+    WRX_FR_VSS: 78
+- response: 7B805621024005F
+  expected_values:
+    WRX_FR_VSS: 95
+- response: 7B8056210240099
+  expected_values:
+    WRX_FR_VSS: 153
+- response: 7B8056210240129
+  expected_values:
+    WRX_FR_VSS: 297
+- response: 7B805621024012C
+  expected_values:
+    WRX_FR_VSS: 300
+- response: 7B8056210240144
+  expected_values:
+    WRX_FR_VSS: 324
+- response: 7B805621024017C
+  expected_values:
+    WRX_FR_VSS: 380
+- response: 7B805621024019F
+  expected_values:
+    WRX_FR_VSS: 415
+- response: 7B80562102401BD
+  expected_values:
+    WRX_FR_VSS: 445
+- response: 7B805621024021D
+  expected_values:
+    WRX_FR_VSS: 541
+- response: 7B8056210240249
+  expected_values:
+    WRX_FR_VSS: 585
+- response: 7B805621024026F
+  expected_values:
+    WRX_FR_VSS: 623
+- response: 7B8056210240332
+  expected_values:
+    WRX_FR_VSS: 818
+- response: 7B8056210240338
+  expected_values:
+    WRX_FR_VSS: 824
+- response: 7B80562102403D7
+  expected_values:
+    WRX_FR_VSS: 983
+- response: 7B80562102403FA
+  expected_values:
+    WRX_FR_VSS: 1018
+- response: 7B80562102404B7
+  expected_values:
+    WRX_FR_VSS: 1207

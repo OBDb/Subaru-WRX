@@ -1,0 +1,16 @@
+command_id: 753.75B.221022
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 75B0762102200000000
+  expected_values:
+    WRX_TP_FL: 0
+    WRX_TP_FR: 0
+    WRX_TP_RL: 0
+    WRX_TP_RR: 0
+- response: 75B07621022A7A8A6A7
+  expected_values:
+    WRX_TP_FL: 33.4
+    WRX_TP_FR: 33.2
+    WRX_TP_RL: 33.4
+    WRX_TP_RR: 33.6

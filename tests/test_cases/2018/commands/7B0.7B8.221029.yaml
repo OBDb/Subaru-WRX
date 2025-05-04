@@ -8,22 +8,76 @@ test_cases:
 - response: 7B8056210290001
   expected_values:
     WRX_STEER_ANGLE: 1
+- response: 7B8056210290002
+  expected_values:
+    WRX_STEER_ANGLE: 2
+- response: 7B8056210290003
+  expected_values:
+    WRX_STEER_ANGLE: 3
+- response: 7B8056210290004
+  expected_values:
+    WRX_STEER_ANGLE: 4
+- response: 7B8056210290005
+  expected_values:
+    WRX_STEER_ANGLE: 5
 - response: 7B8056210290007
   expected_values:
     WRX_STEER_ANGLE: 7
 - response: 7B8056210290008
   expected_values:
     WRX_STEER_ANGLE: 8
+- response: 7B805621029000A
+  expected_values:
+    WRX_STEER_ANGLE: 10
+- response: 7B8056210290011
+  expected_values:
+    WRX_STEER_ANGLE: 17
 - response: 7B8056210290012
   expected_values:
     WRX_STEER_ANGLE: 18
+- response: 7B8056210290020
+  expected_values:
+    WRX_STEER_ANGLE: 32
+- response: 7B8056210290028
+  expected_values:
+    WRX_STEER_ANGLE: 40
+- response: 7B8056210290037
+  expected_values:
+    WRX_STEER_ANGLE: 55
 - response: 7B8056210290064
   expected_values:
     WRX_STEER_ANGLE: 100
+- response: 7B805621029008F
+  expected_values:
+    WRX_STEER_ANGLE: 143
+- response: 7B80562102900E7
+  expected_values:
+    WRX_STEER_ANGLE: 231
+- response: 7B80562102900F4
+  expected_values:
+    WRX_STEER_ANGLE: 244
 - response: 7B80562102901A9
   expected_values:
     WRX_STEER_ANGLE: 425
+- response: 7B80562102901B7
+  expected_values:
+    WRX_STEER_ANGLE: 439
+- response: 7B805621029FF5B
+  expected_values:
+    WRX_STEER_ANGLE: 0
+- response: 7B805621029FFA0
+  expected_values:
+    WRX_STEER_ANGLE: 0
+- response: 7B805621029FFAF
+  expected_values:
+    WRX_STEER_ANGLE: 0
 - response: 7B805621029FFB7
+  expected_values:
+    WRX_STEER_ANGLE: 0
+- response: 7B805621029FFE9
+  expected_values:
+    WRX_STEER_ANGLE: 0
+- response: 7B805621029FFEA
   expected_values:
     WRX_STEER_ANGLE: 0
 - response: 7B805621029FFEE
@@ -32,16 +86,28 @@ test_cases:
 - response: 7B805621029FFF0
   expected_values:
     WRX_STEER_ANGLE: 0
+- response: 7B805621029FFF2
+  expected_values:
+    WRX_STEER_ANGLE: 0
 - response: 7B805621029FFF4
   expected_values:
     WRX_STEER_ANGLE: 0
+- response: 7B805621029FFF6
+  expected_values:
+    WRX_STEER_ANGLE: 0
 - response: 7B805621029FFF9
+  expected_values:
+    WRX_STEER_ANGLE: 0
+- response: 7B805621029FFFB
   expected_values:
     WRX_STEER_ANGLE: 0
 - response: 7B805621029FFFC
   expected_values:
     WRX_STEER_ANGLE: 0
 - response: 7B805621029FFFD
+  expected_values:
+    WRX_STEER_ANGLE: 0
+- response: 7B805621029FFFE
   expected_values:
     WRX_STEER_ANGLE: 0
 - response: 7B805621029FFFF

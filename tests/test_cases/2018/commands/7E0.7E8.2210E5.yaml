@@ -14,3 +14,33 @@ test_cases:
 - response: 7E8056210E59B76
   expected_values:
     WRX_ODO: 79596
+- response: 7E8056210E59B7A
+  expected_values:
+    WRX_ODO: 79604
+- response: 7E8056210E59B7F
+  expected_values:
+    WRX_ODO: 79614
+- response: 7E8056210E59B80
+  expected_values:
+    WRX_ODO: 79616
+- response: 7E8056210E59B82
+  expected_values:
+    WRX_ODO: 79620
+- response: 7E8056210E59B83
+  expected_values:
+    WRX_ODO: 79622
+- response: 7E8056210E59B84
+  expected_values:
+    WRX_ODO: 79624
+- response: 7E8056210E59B88
+  expected_values:
+    WRX_ODO: 79632
+- response: 7E8056210E59B89
+  expected_values:
+    WRX_ODO: 79634
+- response: 7E8056210E59B8A
+  expected_values:
+    WRX_ODO: 79636
+- response: 7E8056210E59B8D
+  expected_values:
+    WRX_ODO: 79642

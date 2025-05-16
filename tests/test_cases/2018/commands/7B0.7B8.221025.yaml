@@ -5,9 +5,9 @@ test_cases:
 - response: 7B8056210250000
   expected_values:
     WRX_FL_VSS: 0
-- response: 7B80562102503FB
+- response: 7B80562102505FC
   expected_values:
-    WRX_FL_VSS: 1019
-- response: 7B8056210250634
+    WRX_FL_VSS: 1532
+- response: 7B805621025080E
   expected_values:
-    WRX_FL_VSS: 1588
+    WRX_FL_VSS: 2062

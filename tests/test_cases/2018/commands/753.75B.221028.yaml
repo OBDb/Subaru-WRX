@@ -1,0 +1,22 @@
+command_id: 753.75B.221028
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: |-
+    75B100F6210282DAAD9
+    75B212DA3C52DB0422D
+    75B22A0C00000000000
+  expected_values:
+    WRX_TID1: 2992857
+    WRX_TID2: 2991045
+    WRX_TID3: 2994242
+    WRX_TID4: 2990272
+- response: |-
+    75B100F62102837720F
+    75B213776AA37840E37
+    75B227AC90000000000
+  expected_values:
+    WRX_TID1: 3633679
+    WRX_TID2: 3634858
+    WRX_TID3: 3638286
+    WRX_TID4: 3635913

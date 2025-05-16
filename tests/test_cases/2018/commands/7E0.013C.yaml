@@ -1,0 +1,22 @@
+command_id: 7E0.013C
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E804413C0A38
+  expected_values:
+    CATEMP11: 221.6
+- response: 7E804413C0ABF
+  expected_values:
+    CATEMP11: 235.1
+- response: 7E804413C0B16
+  expected_values:
+    CATEMP11: 243.8
+- response: 7E804413C11F2
+  expected_values:
+    CATEMP11: 419.4
+- response: 7E804413C138E
+  expected_values:
+    CATEMP11: 460.6
+- response: 7E804413C14E9
+  expected_values:
+    CATEMP11: 495.3

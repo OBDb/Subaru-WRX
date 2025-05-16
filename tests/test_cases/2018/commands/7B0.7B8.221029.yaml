@@ -5,7 +5,7 @@ test_cases:
 - response: 7B8056210290000
   expected_values:
     WRX_STEER_ANGLE: 0
-- response: 7B805621029FF5B
+- response: 7B805621029FF02
   expected_values:
     WRX_STEER_ANGLE: 0
 - response: 7B805621029FFFF

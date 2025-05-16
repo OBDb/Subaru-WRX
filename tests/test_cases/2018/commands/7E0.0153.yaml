@@ -1,0 +1,22 @@
+command_id: 7E0.0153
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E80441534C7D
+  expected_values:
+    EVAP_VPA: 97.905
+- response: 7E80441534C7E
+  expected_values:
+    EVAP_VPA: 97.91
+- response: 7E80441534C96
+  expected_values:
+    EVAP_VPA: 98.03
+- response: 7E80441534C99
+  expected_values:
+    EVAP_VPA: 98.045
+- response: 7E80441534C9A
+  expected_values:
+    EVAP_VPA: 98.05
+- response: 7E80441534E35
+  expected_values:
+    EVAP_VPA: 100.105

@@ -8,6 +8,6 @@ test_cases:
 - response: 7B80562102400FF
   expected_values:
     WRX_FR_VSS: 255
-- response: 7B8056210240637
+- response: 7B8056210240810
   expected_values:
-    WRX_FR_VSS: 1591
+    WRX_FR_VSS: 2064

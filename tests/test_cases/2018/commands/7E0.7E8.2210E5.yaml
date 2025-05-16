@@ -5,6 +5,12 @@ test_cases:
 - response: 7E8056210E59B70
   expected_values:
     WRX_ODO: 79584
-- response: 7E8056210E59B8D
+- response: 7E8056210E59BFF
   expected_values:
-    WRX_ODO: 79642
+    WRX_ODO: 79870
+- response: 7E8056210E59C03
+  expected_values:
+    WRX_ODO: 79878
+- response: 7E8056210E5FFFF
+  expected_values:
+    WRX_ODO: 131070

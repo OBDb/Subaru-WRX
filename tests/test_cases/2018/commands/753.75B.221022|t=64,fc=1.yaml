@@ -1,6 +1,4 @@
-command_id: 753.75B.221022
-can_id_format: ELEVEN_BIT
-extended_addressing_enabled: false
+command_id: 753.75B.221022|t=64,fc=1
 test_cases:
 - response: 75B0762102200000000
   expected_values:

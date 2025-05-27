@@ -1,6 +1,4 @@
-command_id: 753.75B.221028
-can_id_format: ELEVEN_BIT
-extended_addressing_enabled: false
+command_id: 753.75B.221028|t=64,fc=1
 test_cases:
 - response: |-
     75B100F6210282DAAD9

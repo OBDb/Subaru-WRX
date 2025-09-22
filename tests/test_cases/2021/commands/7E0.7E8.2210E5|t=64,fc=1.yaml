@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2210E5|t=64,fc=1
+test_cases:
+- expected_values:
+    WRX_ODO: 47824
+  response: 7E8056210E55D68
+- expected_values:
+    WRX_ODO: 48126
+  response: 7E8056210E55DFF
+- expected_values:
+    WRX_ODO: 48128
+  response: 7E8056210E55E00
+- expected_values:
+    WRX_ODO: 49664
+  response: 7E8056210E56100

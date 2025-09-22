@@ -1,0 +1,26 @@
+command_id: 753.75B.221022|t=64,fc=1
+test_cases:
+- expected_values:
+    WRX_TP_FL: 0
+    WRX_TP_FR: 0
+    WRX_TP_RL: 0
+    WRX_TP_RR: 0
+  response: 75B0762102200000000
+- expected_values:
+    WRX_TP_FL: 35.2
+    WRX_TP_FR: 35.6
+    WRX_TP_RL: 36.2
+    WRX_TP_RR: 35.8
+  response: 75B07621022B5B3B2B0
+- expected_values:
+    WRX_TP_FL: 35
+    WRX_TP_FR: 35.4
+    WRX_TP_RL: 36.6
+    WRX_TP_RR: 35.6
+  response: 75B07621022B7B2B1AF
+- expected_values:
+    WRX_TP_FL: 35.4
+    WRX_TP_FR: 35.6
+    WRX_TP_RL: 36.6
+    WRX_TP_RR: 35.8
+  response: 75B07621022B7B3B2B1

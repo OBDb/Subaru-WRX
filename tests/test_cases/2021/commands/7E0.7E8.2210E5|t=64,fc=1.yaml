@@ -10,5 +10,5 @@ test_cases:
     WRX_ODO: 48128
   response: 7E8056210E55E00
 - expected_values:
-    WRX_ODO: 49664
-  response: 7E8056210E56100
+    WRX_ODO: 50176
+  response: 7E8056210E56200

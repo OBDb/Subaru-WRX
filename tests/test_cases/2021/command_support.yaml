@@ -2,6 +2,7 @@ model_year: 2021
 supported_commands_by_ecu:
   "753":
   - 753.75B.221022|t=64,fc=1:WRX_TP_FL,WRX_TP_FR,WRX_TP_RL,WRX_TP_RR
+  - 753.75B.221028|t=64,fc=1:WRX_TID1,WRX_TID2,WRX_TID3,WRX_TID4
   "7B0":
   - 7B0.7B8.221024|t=64,fc=1:WRX_FR_VSS
   - 7B0.7B8.221025|t=64,fc=1:WRX_FL_VSS
@@ -58,6 +59,7 @@ supported_commands_by_ecu:
   - 7E0.010D:VSS
   - 7E0.012F:FLI
   - 7E0.0131:CLR_DIST
+  - 7E0.0142:VPWR
   - 7E0.7E8.2210E5|t=64,fc=1:WRX_ODO
 unsupported_commands_by_ecu:
   "7E0":

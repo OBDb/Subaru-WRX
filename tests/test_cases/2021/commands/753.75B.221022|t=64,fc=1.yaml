@@ -7,11 +7,11 @@ test_cases:
     WRX_TP_RR: 0
   response: 75B0762102200000000
 - expected_values:
-    WRX_TP_FL: 36.4
-    WRX_TP_FR: 37.2
-    WRX_TP_RL: 37
-    WRX_TP_RR: 35.4
-  response: 75B07621022B9B1BAB6
+    WRX_TP_FL: 30.6
+    WRX_TP_FR: 31.2
+    WRX_TP_RL: 31.2
+    WRX_TP_RR: 39.8
+  response: 75B076210229CC79C99
 - expected_values:
     WRX_TP_FL: 36.6
     WRX_TP_FR: 37

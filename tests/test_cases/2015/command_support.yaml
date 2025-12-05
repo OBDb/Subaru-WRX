@@ -67,6 +67,7 @@ supported_commands_by_ecu:
   - 7E0.010F:IAT
   - 7E0.0110:MAF
   - 7E0.0112:AIR_STAT
+  - 7E0.011F:RUNTM
   - 7E0.012E:EVAP_PCT
   - 7E0.012F:FLI
   - 7E0.0131:CLR_DIST

@@ -1,6 +1,15 @@
 command_id: 7B0.7B8.221029|t=64,fc=1
 test_cases:
 - expected_values:
+    WRX_STEER_ANGLE: 2
+  response: 7B8056210290002
+- expected_values:
+    WRX_STEER_ANGLE: 3
+  response: 7B8056210290003
+- expected_values:
+    WRX_STEER_ANGLE: 6
+  response: 7B8056210290006
+- expected_values:
     WRX_STEER_ANGLE: 0
   response: 7B805621029FFF4
 - expected_values:

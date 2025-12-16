@@ -4,5 +4,11 @@ test_cases:
     ODO: 12313.1
   response: 7E80641A60001E0FB
 - expected_values:
+    ODO: 12313.5
+  response: 7E80641A60001E0FF
+- expected_values:
+    ODO: 12313.6
+  response: 7E80641A60001E100
+- expected_values:
     ODO: 23925.9
   response: 7E80641A60003A69B

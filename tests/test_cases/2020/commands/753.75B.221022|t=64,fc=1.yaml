@@ -14,19 +14,19 @@ test_cases:
   response: 75B07621022C2C6C7C2
 - expected_values:
     WRX_TP_FL: 39
-    WRX_TP_FR: 39.8
+    WRX_TP_FR: 39.6
     WRX_TP_RL: 39
     WRX_TP_RR: 40
-  response: 75B07621022C3C8C7C3
-- expected_values:
-    WRX_TP_FL: 39
-    WRX_TP_FR: 39.4
-    WRX_TP_RL: 39.2
-    WRX_TP_RR: 39.8
-  response: 75B07621022C4C7C5C3
+  response: 75B07621022C3C8C6C3
 - expected_values:
     WRX_TP_FL: 39.2
     WRX_TP_FR: 39.6
     WRX_TP_RL: 39.2
     WRX_TP_RR: 39.8
   response: 75B07621022C4C7C6C4
+- expected_values:
+    WRX_TP_FL: 39
+    WRX_TP_FR: 39.2
+    WRX_TP_RL: 39.4
+    WRX_TP_RR: 39.8
+  response: 75B07621022C5C7C4C3

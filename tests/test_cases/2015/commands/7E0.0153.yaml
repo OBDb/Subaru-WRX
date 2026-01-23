@@ -4,5 +4,14 @@ test_cases:
     EVAP_VPA: 100.425
   response: 7E80441534E75
 - expected_values:
+    EVAP_VPA: 101.47
+  response: 7E80441534F46
+- expected_values:
+    EVAP_VPA: 101.475
+  response: 7E80441534F47
+- expected_values:
+    EVAP_VPA: 101.48
+  response: 7E80441534F48
+- expected_values:
     EVAP_VPA: 101.56
   response: 7E80441534F58

@@ -1,3 +1,6 @@
+references:
+  - "https://en.wikipedia.org/wiki/Subaru_WRX"
+
 generations:
   - name: "First Generation (GC/GF)"
     start_year: 1992

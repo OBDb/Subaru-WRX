@@ -1,11 +1,11 @@
 command_id: 753.75B.221022|t=64,fc=1
 test_cases:
 - expected_values:
-    WRX_TP_FL: 31.4
-    WRX_TP_FR: 32.2
-    WRX_TP_RL: 20.8
-    WRX_TP_RR: 31.8
-  response: 75B07621022689FA19D
+    WRX_TP_FL: 31.6
+    WRX_TP_FR: 33.4
+    WRX_TP_RL: 14.8
+    WRX_TP_RR: 32.6
+  response: 75B076210224AA3A79E
 - expected_values:
     WRX_TP_FL: 27.4
     WRX_TP_FR: 26.4

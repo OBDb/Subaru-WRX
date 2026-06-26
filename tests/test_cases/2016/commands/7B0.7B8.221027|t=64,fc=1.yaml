@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     WRX_RL_VSS: 643
   response: 7B8056210270283
+- expected_values:
+    WRX_RL_VSS: 1879
+  response: 7B8056210270757

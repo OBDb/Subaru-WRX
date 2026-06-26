@@ -1,0 +1,11 @@
+command_id: 753.75B.221028|t=64,fc=1
+test_cases:
+- expected_values:
+    WRX_TID1: 15805173
+    WRX_TID2: 15804722
+    WRX_TID3: 15805480
+    WRX_TID4: 15804746
+  response: |-
+    75B100F621028F12AF5
+    75B21F12932F12C28F1
+    75B22294A0000000000

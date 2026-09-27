@@ -1,4 +1,7 @@
-{ "commands": [
+{ "ecu": [
+    { "hdr": "7E0", "type": "engine" }
+  ],
+  "commands": [
 { "hdr": "753", "rax": "75B", "tmo": "64", "fcm1": true, "cmd": {"22": "1022"}, "freq": 15, "dbgfilter": { "to": 2014, "years": [2019], "from": 2025 },
   "signals": [
     {"id": "WRX_TP_RL", "path": "Tires", "fmt": {           "len": 8, "max": 51, "div": 5, "unit": "psi" }, "name": "Rear left tire pressure",   "suggestedMetric": "rearLeftTirePressure"},

@@ -1,0 +1,14 @@
+command_id: 7A2.7AA.221322
+test_cases:
+- expected_values:
+    WRX_BAT_CHARGE_DISCHARGE_CURRENT: 6.093
+  response: 7AA07621322001E9C4D
+- expected_values:
+    WRX_BAT_CHARGE_DISCHARGE_CURRENT: 7.301
+  response: 7AA07621322001EA105
+- expected_values:
+    WRX_BAT_CHARGE_DISCHARGE_CURRENT: 10.109
+  response: 7AA07621322001EABFD
+- expected_values:
+    WRX_BAT_CHARGE_DISCHARGE_CURRENT: 22.6
+  response: 7AA07621322001EDCC8

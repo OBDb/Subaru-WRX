@@ -1,0 +1,8 @@
+command_id: 7A2.7AA.2210B6
+test_cases:
+- expected_values:
+    WRX_OCV_DUTY_RIGHT: 16.47059
+  response: 7AA046210B62A
+- expected_values:
+    WRX_OCV_DUTY_RIGHT: 58.43137
+  response: 7AA046210B695

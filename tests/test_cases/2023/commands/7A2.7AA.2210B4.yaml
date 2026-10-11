@@ -1,0 +1,8 @@
+command_id: 7A2.7AA.2210B4
+test_cases:
+- expected_values:
+    WRX_INTAKE_VVT_ADVANCE_RIGHT: -27
+  response: 7AA046210B417
+- expected_values:
+    WRX_INTAKE_VVT_ADVANCE_RIGHT: 11
+  response: 7AA046210B43D

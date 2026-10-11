@@ -1,0 +1,11 @@
+command_id: 7A2.7AA.2210D4
+test_cases:
+- expected_values:
+    WRX_EWG_VALVE_ACTUAL_POSITION: 0.75029
+  response: 7AA056210D444CD
+- expected_values:
+    WRX_EWG_VALVE_ACTUAL_POSITION: 0.7747
+  response: 7AA056210D444F5
+- expected_values:
+    WRX_EWG_VALVE_ACTUAL_POSITION: 15.00832
+  response: 7AA056210D4A00D

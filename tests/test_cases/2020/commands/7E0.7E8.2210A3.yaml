@@ -10,5 +10,11 @@ test_cases:
     WRX_FUEL_INJ_1_WIDTH: 1.28
   response: 7E8046210A305
 - expected_values:
+    WRX_FUEL_INJ_1_WIDTH: 1.536
+  response: 7E8046210A306
+- expected_values:
     WRX_FUEL_INJ_1_WIDTH: 2.304
   response: 7E8046210A309
+- expected_values:
+    WRX_FUEL_INJ_1_WIDTH: 3.584
+  response: 7E8046210A30E

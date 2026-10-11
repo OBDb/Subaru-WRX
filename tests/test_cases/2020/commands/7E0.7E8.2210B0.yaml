@@ -7,5 +7,11 @@ test_cases:
     WRX_TUMBLE_GEN_VLV_POS_SENS: 0.78
   response: 7E8046210B027
 - expected_values:
+    WRX_TUMBLE_GEN_VLV_POS_SENS: 0.8
+  response: 7E8046210B028
+- expected_values:
+    WRX_TUMBLE_GEN_VLV_POS_SENS: 3.1
+  response: 7E8046210B09B
+- expected_values:
     WRX_TUMBLE_GEN_VLV_POS_SENS: 3.14
   response: 7E8046210B09D

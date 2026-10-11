@@ -1,26 +1,14 @@
 command_id: 7E0.7E8.221289
 test_cases:
 - expected_values:
-    WRX_IDLE_MAF: 2.28
-  response: 7E80562128900E4
+    WRX_IDLE_MAF: 1.66
+  response: 7E80562128900A6
 - expected_values:
-    WRX_IDLE_MAF: 4.1
-  response: 7E805621289019A
+    WRX_IDLE_MAF: 2.99
+  response: 7E805621289012B
 - expected_values:
-    WRX_IDLE_MAF: 4.31
-  response: 7E80562128901AF
+    WRX_IDLE_MAF: 6.24
+  response: '7E8056212890270'
 - expected_values:
-    WRX_IDLE_MAF: 4.48
-  response: 7E80562128901C0
-- expected_values:
-    WRX_IDLE_MAF: 6.57
-  response: '7E8056212890291'
-- expected_values:
-    WRX_IDLE_MAF: 6.68
-  response: 7E805621289029C
-- expected_values:
-    WRX_IDLE_MAF: 6.78
-  response: 7E80562128902A6
-- expected_values:
-    WRX_IDLE_MAF: 7.32
-  response: 7E80562128902DC
+    WRX_IDLE_MAF: 7.58
+  response: 7E80562128902F6

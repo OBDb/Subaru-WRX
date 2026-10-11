@@ -5,3 +5,13 @@ test_cases:
   response: |-
     7E8100962101E194500
     7E8210006ED00000000
+- expected_values:
+    WRX_TRIP_CNT: 6470
+  response: |-
+    7E8100962101E194600
+    7E82100022600000000
+- expected_values:
+    WRX_TRIP_CNT: 6471
+  response: |-
+    7E8100962101E194700
+    7E8210001EF00000000

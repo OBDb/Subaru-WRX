@@ -1,0 +1,8 @@
+command_id: 7A2.7AA.22129C
+test_cases:
+- expected_values:
+    WRX_ENGINE_STARTING_TIME: 900
+  response: 7AA0562129C005A
+- expected_values:
+    WRX_ENGINE_STARTING_TIME: 920
+  response: 7AA0562129C005C

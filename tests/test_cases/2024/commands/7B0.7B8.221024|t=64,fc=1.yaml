@@ -1,17 +1,17 @@
 command_id: 7B0.7B8.221024|t=64,fc=1
 test_cases:
 - expected_values:
-    WRX_FR_VSS: 2049
+    WRX_FR_VSS: 115.25625
   response: 7B8056210240801
 - expected_values:
-    WRX_FR_VSS: 2102
+    WRX_FR_VSS: 118.2375
   response: 7B8056210240836
 - expected_values:
-    WRX_FR_VSS: 2108
+    WRX_FR_VSS: 118.575
   response: 7B805621024083C
 - expected_values:
-    WRX_FR_VSS: 2120
+    WRX_FR_VSS: 119.25
   response: 7B8056210240848
 - expected_values:
-    WRX_FR_VSS: 2121
+    WRX_FR_VSS: 119.30625
   response: 7B8056210240849

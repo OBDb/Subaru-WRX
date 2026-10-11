@@ -4,8 +4,8 @@ test_cases:
     WRX_RR_VSS: 0
   response: 7B8056210260000
 - expected_values:
-    WRX_RR_VSS: 253
+    WRX_RR_VSS: 14.23125
   response: 7B80562102600FD
 - expected_values:
-    WRX_RR_VSS: 2059
+    WRX_RR_VSS: 115.81875
   response: 7B805621026080B

@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.221278
+test_cases:
+- expected_values:
+    WRX_SUB_ACCEL_SENS: 0.66
+  response: '7E80462127821'
+- expected_values:
+    WRX_SUB_ACCEL_SENS: 0.96
+  response: '7E80462127830'
+- expected_values:
+    WRX_SUB_ACCEL_SENS: 0.98
+  response: '7E80462127831'
+- expected_values:
+    WRX_SUB_ACCEL_SENS: 1.38
+  response: '7E80462127845'
+- expected_values:
+    WRX_SUB_ACCEL_SENS: 1.6
+  response: '7E80462127850'

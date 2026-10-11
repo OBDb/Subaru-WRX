@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.22128F
+test_cases:
+- expected_values:
+    WRX_INT_VVT_ADVANCE_TGT: -19
+  response: 7E80462128F1F
+- expected_values:
+    WRX_INT_VVT_ADVANCE_TGT: -17
+  response: 7E80462128F21
+- expected_values:
+    WRX_INT_VVT_ADVANCE_TGT: 0
+  response: 7E80462128F32
+- expected_values:
+    WRX_INT_VVT_ADVANCE_TGT: 12
+  response: 7E80462128F3E
+- expected_values:
+    WRX_INT_VVT_ADVANCE_TGT: 20
+  response: 7E80462128F46

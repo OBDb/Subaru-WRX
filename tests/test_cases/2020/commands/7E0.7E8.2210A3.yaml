@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2210A3
+test_cases:
+- expected_values:
+    WRX_FUEL_INJ_1_WIDTH: 0.768
+  response: 7E8046210A303
+- expected_values:
+    WRX_FUEL_INJ_1_WIDTH: 1.024
+  response: 7E8046210A304
+- expected_values:
+    WRX_FUEL_INJ_1_WIDTH: 1.28
+  response: 7E8046210A305
+- expected_values:
+    WRX_FUEL_INJ_1_WIDTH: 2.304
+  response: 7E8046210A309

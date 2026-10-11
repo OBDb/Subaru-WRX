@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.2210ED
+test_cases:
+- expected_values:
+    WRX_EXH_VVT_RETARD_ANG_LEFT: 0
+  response: 7E8046210ED32
+- expected_values:
+    WRX_EXH_VVT_RETARD_ANG_LEFT: 12
+  response: 7E8046210ED3E
+- expected_values:
+    WRX_EXH_VVT_RETARD_ANG_LEFT: 14
+  response: 7E8046210ED40
+- expected_values:
+    WRX_EXH_VVT_RETARD_ANG_LEFT: 21
+  response: 7E8046210ED47
+- expected_values:
+    WRX_EXH_VVT_RETARD_ANG_LEFT: 36
+  response: 7E8046210ED56

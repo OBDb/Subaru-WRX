@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2210AC
+test_cases:
+- expected_values:
+    WRX_PRIMARY_BOOST_CTRL_7E0: 0
+  response: 7E8046210AC00
+- expected_values:
+    WRX_PRIMARY_BOOST_CTRL_7E0: 9.41176
+  response: 7E8046210AC18
+- expected_values:
+    WRX_PRIMARY_BOOST_CTRL_7E0: 26.66667
+  response: 7E8046210AC44

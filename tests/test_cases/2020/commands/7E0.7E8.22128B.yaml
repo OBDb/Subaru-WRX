@@ -1,5 +1,11 @@
 command_id: 7E0.7E8.22128B
 test_cases:
 - expected_values:
+    WRX_IDLE_SPD_CTRL: 0.2
+  response: 7E80562128B7544
+- expected_values:
+    WRX_IDLE_SPD_CTRL: 0.28
+  response: 7E80562128B754C
+- expected_values:
     WRX_IDLE_SPD_CTRL: 0.32
   response: 7E80562128B7550

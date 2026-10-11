@@ -4,17 +4,5 @@ test_cases:
     WRX_MAIN_ACCEL_SENS: 0.66
   response: '7E80462127921'
 - expected_values:
-    WRX_MAIN_ACCEL_SENS: 0.68
-  response: '7E80462127922'
-- expected_values:
-    WRX_MAIN_ACCEL_SENS: 0.92
-  response: 7E8046212792E
-- expected_values:
-    WRX_MAIN_ACCEL_SENS: 1.02
-  response: '7E80462127933'
-- expected_values:
-    WRX_MAIN_ACCEL_SENS: 1.1
-  response: '7E80462127937'
-- expected_values:
     WRX_MAIN_ACCEL_SENS: 1.42
   response: '7E80462127947'

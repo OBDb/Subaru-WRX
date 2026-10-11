@@ -4,8 +4,20 @@ test_cases:
     WRX_IDLE_MAF_FEEDBACK: -0.11
   response: 7E80562128A7525
 - expected_values:
+    WRX_IDLE_MAF_FEEDBACK: -0.06
+  response: 7E80562128A752A
+- expected_values:
     WRX_IDLE_MAF_FEEDBACK: 0
   response: 7E80562128A7530
 - expected_values:
+    WRX_IDLE_MAF_FEEDBACK: 0.02
+  response: 7E80562128A7532
+- expected_values:
     WRX_IDLE_MAF_FEEDBACK: 0.57
   response: 7E80562128A7569
+- expected_values:
+    WRX_IDLE_MAF_FEEDBACK: 1.07
+  response: 7E80562128A759B
+- expected_values:
+    WRX_IDLE_MAF_FEEDBACK: 1.13
+  response: 7E80562128A75A1

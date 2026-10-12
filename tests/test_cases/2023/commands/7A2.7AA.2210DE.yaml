@@ -4,5 +4,5 @@ test_cases:
     WRX_THROTTLE_MOTOR_DUTY: -96.08
   response: 7AA046210DE05
 - expected_values:
-    WRX_THROTTLE_MOTOR_DUTY: 25.44
-  response: 7AA046210DEA0
+    WRX_THROTTLE_MOTOR_DUTY: 26.224
+  response: 7AA046210DEA1

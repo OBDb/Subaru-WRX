@@ -4,26 +4,5 @@ test_cases:
     WRX_ODO_7A2_10E5: 19548
   response: 7AA056210E5262E
 - expected_values:
-    WRX_ODO_7A2_10E5: 19550
-  response: 7AA056210E5262F
-- expected_values:
-    WRX_ODO_7A2_10E5: 19552
-  response: 7AA056210E52630
-- expected_values:
-    WRX_ODO_7A2_10E5: 19554
-  response: 7AA056210E52631
-- expected_values:
-    WRX_ODO_7A2_10E5: 19556
-  response: 7AA056210E52632
-- expected_values:
-    WRX_ODO_7A2_10E5: 19558
-  response: 7AA056210E52633
-- expected_values:
-    WRX_ODO_7A2_10E5: 19560
-  response: 7AA056210E52634
-- expected_values:
-    WRX_ODO_7A2_10E5: 19562
-  response: 7AA056210E52635
-- expected_values:
-    WRX_ODO_7A2_10E5: 19564
-  response: 7AA056210E52636
+    WRX_ODO_7A2_10E5: 19572
+  response: 7AA056210E5263A

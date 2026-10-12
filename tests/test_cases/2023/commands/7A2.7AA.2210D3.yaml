@@ -4,6 +4,9 @@ test_cases:
     WRX_EWG_VALVE_REQUEST_POSITION: 0.00015
   response: 7AA056210D34000
 - expected_values:
+    WRX_EWG_VALVE_REQUEST_POSITION: 1.99969
+  response: 7AA056210D34CCC
+- expected_values:
     WRX_EWG_VALVE_REQUEST_POSITION: 3.73373
   response: 7AA056210D357E5
 - expected_values:

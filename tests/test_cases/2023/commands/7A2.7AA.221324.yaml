@@ -4,5 +4,29 @@ test_cases:
     WRX_REMAINING_BAT_CAPACITY: 96.8
   response: 7AA0562132403C8
 - expected_values:
+    WRX_REMAINING_BAT_CAPACITY: 97.4
+  response: 7AA0562132403CE
+- expected_values:
+    WRX_REMAINING_BAT_CAPACITY: 97.9
+  response: 7AA0562132403D3
+- expected_values:
+    WRX_REMAINING_BAT_CAPACITY: 98.2
+  response: 7AA0562132403D6
+- expected_values:
+    WRX_REMAINING_BAT_CAPACITY: 98.6
+  response: 7AA0562132403DA
+- expected_values:
+    WRX_REMAINING_BAT_CAPACITY: 98.8
+  response: 7AA0562132403DC
+- expected_values:
+    WRX_REMAINING_BAT_CAPACITY: 99
+  response: 7AA0562132403DE
+- expected_values:
+    WRX_REMAINING_BAT_CAPACITY: 99.2
+  response: 7AA0562132403E0
+- expected_values:
+    WRX_REMAINING_BAT_CAPACITY: 99.3
+  response: 7AA0562132403E1
+- expected_values:
     WRX_REMAINING_BAT_CAPACITY: 100
   response: 7AA0562132403E8

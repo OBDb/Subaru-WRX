@@ -4,8 +4,23 @@ test_cases:
     WRX_TARGET_ENGINE_SPEED: 700
   response: 7AA056211210AF0
 - expected_values:
+    WRX_TARGET_ENGINE_SPEED: 730.5
+  response: 7AA056211210B6A
+- expected_values:
+    WRX_TARGET_ENGINE_SPEED: 769
+  response: 7AA056211210C04
+- expected_values:
+    WRX_TARGET_ENGINE_SPEED: 787.25
+  response: 7AA056211210C4D
+- expected_values:
     WRX_TARGET_ENGINE_SPEED: 800
   response: 7AA056211210C80
+- expected_values:
+    WRX_TARGET_ENGINE_SPEED: 807.5
+  response: 7AA056211210C9E
+- expected_values:
+    WRX_TARGET_ENGINE_SPEED: 846
+  response: 7AA056211210D38
 - expected_values:
     WRX_TARGET_ENGINE_SPEED: 884.5
   response: 7AA056211210DD2

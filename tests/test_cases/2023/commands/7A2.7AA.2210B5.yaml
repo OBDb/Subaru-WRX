@@ -4,5 +4,5 @@ test_cases:
     WRX_INTAKE_VVT_ADVANCE_LEFT: -28
   response: 7AA046210B516
 - expected_values:
-    WRX_INTAKE_VVT_ADVANCE_LEFT: 0
-  response: 7AA046210B532
+    WRX_INTAKE_VVT_ADVANCE_LEFT: 17
+  response: 7AA046210B543

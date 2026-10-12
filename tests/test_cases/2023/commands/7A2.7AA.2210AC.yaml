@@ -6,3 +6,9 @@ test_cases:
 - expected_values:
     WRX_PRIMARY_BOOST_CTRL: 25.88235
   response: 7AA046210AC42
+- expected_values:
+    WRX_PRIMARY_BOOST_CTRL: 36.47059
+  response: 7AA046210AC5D
+- expected_values:
+    WRX_PRIMARY_BOOST_CTRL: 56.47059
+  response: 7AA046210AC90

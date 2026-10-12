@@ -1,14 +1,14 @@
 command_id: 7A2.7AA.2212ED
 test_cases:
 - expected_values:
-    WRX_MASS_AIR_FLOW_AVERAGE: 3.03
-  response: 7AA056212ED012F
+    WRX_MASS_AIR_FLOW_AVERAGE: 3
+  response: 7AA056212ED012C
 - expected_values:
     WRX_MASS_AIR_FLOW_AVERAGE: 5
-  response: 7AA056212ED02F6
+  response: 7AA056212ED01FF
 - expected_values:
     WRX_MASS_AIR_FLOW_AVERAGE: 5
   response: 7AA056212ED0601
 - expected_values:
     WRX_MASS_AIR_FLOW_AVERAGE: 5
-  response: 7AA056212ED1F67
+  response: 7AA056212ED382A

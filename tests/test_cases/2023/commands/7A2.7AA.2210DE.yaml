@@ -1,8 +1,8 @@
 command_id: 7A2.7AA.2210DE
 test_cases:
 - expected_values:
-    WRX_THROTTLE_MOTOR_DUTY: -33.36
-  response: 7AA046210DE55
+    WRX_THROTTLE_MOTOR_DUTY: -96.08
+  response: 7AA046210DE05
 - expected_values:
     WRX_THROTTLE_MOTOR_DUTY: 25.44
   response: 7AA046210DEA0

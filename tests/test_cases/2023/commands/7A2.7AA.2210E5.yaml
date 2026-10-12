@@ -21,3 +21,9 @@ test_cases:
 - expected_values:
     WRX_ODO_7A2_10E5: 19560
   response: 7AA056210E52634
+- expected_values:
+    WRX_ODO_7A2_10E5: 19562
+  response: 7AA056210E52635
+- expected_values:
+    WRX_ODO_7A2_10E5: 19564
+  response: 7AA056210E52636

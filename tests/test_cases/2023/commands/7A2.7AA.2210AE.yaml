@@ -4,29 +4,5 @@ test_cases:
     WRX_CPC_VALVE_DUTY_CYCLE: 0
   response: 7AA046210AE00
 - expected_values:
-    WRX_CPC_VALVE_DUTY_CYCLE: 3.92157
-  response: 7AA046210AE0A
-- expected_values:
-    WRX_CPC_VALVE_DUTY_CYCLE: 5.09804
-  response: 7AA046210AE0D
-- expected_values:
-    WRX_CPC_VALVE_DUTY_CYCLE: 10.19608
-  response: 7AA046210AE1A
-- expected_values:
-    WRX_CPC_VALVE_DUTY_CYCLE: 24.31373
-  response: 7AA046210AE3E
-- expected_values:
-    WRX_CPC_VALVE_DUTY_CYCLE: 49.80392
-  response: 7AA046210AE7F
-- expected_values:
-    WRX_CPC_VALVE_DUTY_CYCLE: 77.64706
-  response: 7AA046210AEC6
-- expected_values:
-    WRX_CPC_VALVE_DUTY_CYCLE: 92.94118
-  response: 7AA046210AEED
-- expected_values:
-    WRX_CPC_VALVE_DUTY_CYCLE: 94.11765
-  response: 7AA046210AEF0
-- expected_values:
     WRX_CPC_VALVE_DUTY_CYCLE: 94.5098
   response: 7AA046210AEF1

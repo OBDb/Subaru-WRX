@@ -4,5 +4,5 @@ test_cases:
     WRX_ACC_PEDAL_ANGLE: 0
   response: 7AA046210A600
 - expected_values:
-    WRX_ACC_PEDAL_ANGLE: 74.11765
-  response: 7AA046210A6BD
+    WRX_ACC_PEDAL_ANGLE: 99.60784
+  response: 7AA046210A6FE

@@ -22,6 +22,9 @@ test_cases:
     WRX_EGR_STEPS: 7
   response: 7AA046210B107
 - expected_values:
+    WRX_EGR_STEPS: 15
+  response: 7AA046210B10F
+- expected_values:
     WRX_EGR_STEPS: 25
   response: 7AA046210B119
 - expected_values:

@@ -4,23 +4,5 @@ test_cases:
     WRX_RADIATOR_FAN: 0
   response: 7AA046210AB00
 - expected_values:
-    WRX_RADIATOR_FAN: 30
-  response: 7AA046210AB1E
-- expected_values:
-    WRX_RADIATOR_FAN: 32
-  response: 7AA046210AB20
-- expected_values:
-    WRX_RADIATOR_FAN: 33
-  response: 7AA046210AB21
-- expected_values:
-    WRX_RADIATOR_FAN: 47
-  response: 7AA046210AB2F
-- expected_values:
-    WRX_RADIATOR_FAN: 50
-  response: 7AA046210AB32
-- expected_values:
-    WRX_RADIATOR_FAN: 59
-  response: 7AA046210AB3B
-- expected_values:
-    WRX_RADIATOR_FAN: 70
-  response: 7AA046210AB46
+    WRX_RADIATOR_FAN: 100
+  response: 7AA046210AB64

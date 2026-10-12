@@ -1,11 +1,17 @@
 command_id: 753.75B.221022|t=64,fc=1
 test_cases:
 - expected_values:
-    WRX_TP_FL: 0
-    WRX_TP_FR: 0
-    WRX_TP_RL: 0
-    WRX_TP_RR: 0
+    WRX_TP_FL: null
+    WRX_TP_FR: null
+    WRX_TP_RL: null
+    WRX_TP_RR: null
   response: 75B0762102200000000
+- expected_values:
+    WRX_TP_FL: 0.6
+  response: 75B0762102200000003
+- expected_values:
+    WRX_TP_FR: 14.2
+  response: 75B0762102200004700
 - expected_values:
     WRX_TP_FL: 41
     WRX_TP_FR: 38.4

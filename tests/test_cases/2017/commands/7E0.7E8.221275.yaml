@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.221275
+test_cases:
+- expected_values:
+    WRX_THROTTLE_MOTOR_V: 11.68
+  response: '7E80462127592'
+- expected_values:
+    WRX_THROTTLE_MOTOR_V: 11.76
+  response: '7E80462127593'
+- expected_values:
+    WRX_THROTTLE_MOTOR_V: 12.88
+  response: 7E804621275A1
+- expected_values:
+    WRX_THROTTLE_MOTOR_V: 13.6
+  response: 7E804621275AA
+- expected_values:
+    WRX_THROTTLE_MOTOR_V: 13.76
+  response: 7E804621275AC
+- expected_values:
+    WRX_THROTTLE_MOTOR_V: 13.84
+  response: 7E804621275AD

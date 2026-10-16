@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221298
+test_cases:
+- expected_values:
+    WRX_TRANS_TURBINE_SPD: 0
+  response: '7E8056212980000'
+- expected_values:
+    WRX_TRANS_TURBINE_SPD: 762
+  response: 7E80562129802FA
+- expected_values:
+    WRX_TRANS_TURBINE_SPD: 2657
+  response: 7E8056212980A61

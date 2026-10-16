@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221289
+test_cases:
+- expected_values:
+    WRX_IDLE_MAF: 3.18
+  response: 7E805621289013E
+- expected_values:
+    WRX_IDLE_MAF: 5.17
+  response: '7E8056212890205'
+- expected_values:
+    WRX_IDLE_MAF: 7.65
+  response: 7E80562128902FD

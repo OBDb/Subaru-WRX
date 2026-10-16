@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.2210AC
+test_cases:
+- expected_values:
+    WRX_PRIMARY_BOOST_CTRL_7E0: 0
+  response: 7E8046210AC00
+- expected_values:
+    WRX_PRIMARY_BOOST_CTRL_7E0: 1.56863
+  response: 7E8046210AC04
+- expected_values:
+    WRX_PRIMARY_BOOST_CTRL_7E0: 1.96078
+  response: 7E8046210AC05
+- expected_values:
+    WRX_PRIMARY_BOOST_CTRL_7E0: 4.70588
+  response: 7E8046210AC0C
+- expected_values:
+    WRX_PRIMARY_BOOST_CTRL_7E0: 5.09804
+  response: 7E8046210AC0D
+- expected_values:
+    WRX_PRIMARY_BOOST_CTRL_7E0: 5.88235
+  response: 7E8046210AC0F
+- expected_values:
+    WRX_PRIMARY_BOOST_CTRL_7E0: 6.66667
+  response: 7E8046210AC11
+- expected_values:
+    WRX_PRIMARY_BOOST_CTRL_7E0: 10.19608
+  response: 7E8046210AC1A
+- expected_values:
+    WRX_PRIMARY_BOOST_CTRL_7E0: 10.98039
+  response: 7E8046210AC1C

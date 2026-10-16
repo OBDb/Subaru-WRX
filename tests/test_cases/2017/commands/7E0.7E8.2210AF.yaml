@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.2210AF
+test_cases:
+- expected_values:
+    WRX_TUMBLE_GEN_VLV_POS: 0.78
+  response: 7E8046210AF27
+- expected_values:
+    WRX_TUMBLE_GEN_VLV_POS: 0.8
+  response: 7E8046210AF28
+- expected_values:
+    WRX_TUMBLE_GEN_VLV_POS: 0.82
+  response: 7E8046210AF29
+- expected_values:
+    WRX_TUMBLE_GEN_VLV_POS: 0.88
+  response: 7E8046210AF2C
+- expected_values:
+    WRX_TUMBLE_GEN_VLV_POS: 2.6
+  response: 7E8046210AF82
+- expected_values:
+    WRX_TUMBLE_GEN_VLV_POS: 3.1
+  response: 7E8046210AF9B
+- expected_values:
+    WRX_TUMBLE_GEN_VLV_POS: 3.12
+  response: 7E8046210AF9C
+- expected_values:
+    WRX_TUMBLE_GEN_VLV_POS: 3.14
+  response: 7E8046210AF9D
+- expected_values:
+    WRX_TUMBLE_GEN_VLV_POS: 3.16
+  response: 7E8046210AF9E
+- expected_values:
+    WRX_TUMBLE_GEN_VLV_POS: 3.18
+  response: 7E8046210AF9F

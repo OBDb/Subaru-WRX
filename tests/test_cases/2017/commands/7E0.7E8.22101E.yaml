@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.22101E
+test_cases:
+- expected_values:
+    WRX_TRIP_CNT: 56567
+  response: |-
+    7E8100962101EDCF700
+    7E8210003DE00000000
+- expected_values:
+    WRX_TRIP_CNT: 56568
+  response: |-
+    7E8100962101EDCF800
+    7E82100028300000000
+- expected_values:
+    WRX_TRIP_CNT: 56580
+  response: |-
+    7E8100962101EDD0400
+    7E8210028BB00000000

@@ -1,0 +1,17 @@
+command_id: 7A3.7AB.2212B1
+test_cases:
+- expected_values:
+    WRX_ACTUAL_LINE_PRESSURE: 1.03439
+  response: 7AB056212B10A58
+- expected_values:
+    WRX_ACTUAL_LINE_PRESSURE: 1.04338
+  response: 7AB056212B10A6F
+- expected_values:
+    WRX_ACTUAL_LINE_PRESSURE: 1.05275
+  response: 7AB056212B10A87
+- expected_values:
+    WRX_ACTUAL_LINE_PRESSURE: 1.06173
+  response: 7AB056212B10A9E
+- expected_values:
+    WRX_ACTUAL_LINE_PRESSURE: 1.07111
+  response: 7AB056212B10AB6

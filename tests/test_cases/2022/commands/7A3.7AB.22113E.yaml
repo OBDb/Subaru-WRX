@@ -1,0 +1,14 @@
+command_id: 7A3.7AB.22113E
+test_cases:
+- expected_values:
+    WRX_ACTUAL_GEAR_RATIO: 2.43363
+  response: 7AB0562113E026F
+- expected_values:
+    WRX_ACTUAL_GEAR_RATIO: 2.43754
+  response: 7AB0562113E0270
+- expected_values:
+    WRX_ACTUAL_GEAR_RATIO: 2.44535
+  response: 7AB0562113E0272
+- expected_values:
+    WRX_ACTUAL_GEAR_RATIO: 2.45316
+  response: 7AB0562113E0274

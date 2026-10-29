@@ -1,0 +1,11 @@
+command_id: 7A3.7AB.2210CB
+test_cases:
+- expected_values:
+    WRX_TURBINE_SPEED: 704
+  response: 7AB046210CB16
+- expected_values:
+    WRX_TURBINE_SPEED: 736
+  response: 7AB046210CB17
+- expected_values:
+    WRX_TURBINE_SPEED: 1760
+  response: 7AB046210CB37

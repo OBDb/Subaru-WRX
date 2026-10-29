@@ -1,0 +1,11 @@
+command_id: 7A3.7AB.22113D
+test_cases:
+- expected_values:
+    WRX_TARGET_GEAR_RATIO: 0.00781
+  response: 7AB0562113D0273
+- expected_values:
+    WRX_TARGET_GEAR_RATIO: 0.00781
+  response: 7AB0562113D0274
+- expected_values:
+    WRX_TARGET_GEAR_RATIO: 0.00781
+  response: 7AB0562113D027A

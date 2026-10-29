@@ -1,0 +1,23 @@
+command_id: 7A2.7AA.221317
+test_cases:
+- expected_values:
+    WRX_MONITOR_4: 784
+  response: 7AA056213170C40
+- expected_values:
+    WRX_MONITOR_4: 793.75
+  response: 7AA056213170C67
+- expected_values:
+    WRX_MONITOR_4: 799.25
+  response: 7AA056213170C7D
+- expected_values:
+    WRX_MONITOR_4: 814
+  response: 7AA056213170CB8
+- expected_values:
+    WRX_MONITOR_4: 820
+  response: 7AA056213170CD0
+- expected_values:
+    WRX_MONITOR_4: 820.75
+  response: 7AA056213170CD3
+- expected_values:
+    WRX_MONITOR_4: 1794.75
+  response: 7AA056213171C0B

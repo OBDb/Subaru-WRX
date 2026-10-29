@@ -1,0 +1,14 @@
+command_id: 7A3.7AB.221138
+test_cases:
+- expected_values:
+    WRX_SECONDARY_PULLEY_SPEED: 293
+  response: 7AB056211380125
+- expected_values:
+    WRX_SECONDARY_PULLEY_SPEED: 297
+  response: 7AB056211380129
+- expected_values:
+    WRX_SECONDARY_PULLEY_SPEED: 300
+  response: 7AB05621138012C
+- expected_values:
+    WRX_SECONDARY_PULLEY_SPEED: 718
+  response: 7AB0562113802CE

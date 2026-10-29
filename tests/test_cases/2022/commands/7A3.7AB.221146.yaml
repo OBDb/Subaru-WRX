@@ -1,0 +1,20 @@
+command_id: 7A3.7AB.221146
+test_cases:
+- expected_values:
+    WRX_PRIMARY_PULLEY_SPEED: 731
+  response: 7AB0562114602DB
+- expected_values:
+    WRX_PRIMARY_PULLEY_SPEED: 732
+  response: 7AB0562114602DC
+- expected_values:
+    WRX_PRIMARY_PULLEY_SPEED: 733
+  response: 7AB0562114602DD
+- expected_values:
+    WRX_PRIMARY_PULLEY_SPEED: 736
+  response: 7AB0562114602E0
+- expected_values:
+    WRX_PRIMARY_PULLEY_SPEED: 751
+  response: 7AB0562114602EF
+- expected_values:
+    WRX_PRIMARY_PULLEY_SPEED: 1786
+  response: 7AB0562114606FA

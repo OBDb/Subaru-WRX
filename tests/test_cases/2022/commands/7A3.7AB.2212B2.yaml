@@ -1,0 +1,11 @@
+command_id: 7A3.7AB.2212B2
+test_cases:
+- expected_values:
+    WRX_LIN_SOLENOID_ACTUAL_CURRENT: 763
+  response: 7AB056212B202FB
+- expected_values:
+    WRX_LIN_SOLENOID_ACTUAL_CURRENT: 764
+  response: 7AB056212B202FC
+- expected_values:
+    WRX_LIN_SOLENOID_ACTUAL_CURRENT: 769
+  response: 7AB056212B20301

@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     WRX_EXHAUST_OCV_DUTY_LEFT: 42.35294
   response: 7AA046210EF6C
+- expected_values:
+    WRX_EXHAUST_OCV_DUTY_LEFT: 43.13725
+  response: 7AA046210EF6E

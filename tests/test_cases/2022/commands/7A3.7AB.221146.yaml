@@ -16,5 +16,8 @@ test_cases:
     WRX_PRIMARY_PULLEY_SPEED: 751
   response: 7AB0562114602EF
 - expected_values:
+    WRX_PRIMARY_PULLEY_SPEED: 776
+  response: 7AB056211460308
+- expected_values:
     WRX_PRIMARY_PULLEY_SPEED: 1786
   response: 7AB0562114606FA

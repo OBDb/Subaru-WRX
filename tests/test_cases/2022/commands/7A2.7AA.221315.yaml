@@ -16,6 +16,9 @@ test_cases:
     WRX_MONITOR_2: 814.25
   response: 7AA056213150CB9
 - expected_values:
+    WRX_MONITOR_2: 817
+  response: 7AA056213150CC4
+- expected_values:
     WRX_MONITOR_2: 819.75
   response: 7AA056213150CCF
 - expected_values:

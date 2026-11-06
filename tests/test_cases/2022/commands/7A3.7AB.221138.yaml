@@ -10,5 +10,8 @@ test_cases:
     WRX_SECONDARY_PULLEY_SPEED: 300
   response: 7AB05621138012C
 - expected_values:
+    WRX_SECONDARY_PULLEY_SPEED: 322
+  response: 7AB056211380142
+- expected_values:
     WRX_SECONDARY_PULLEY_SPEED: 718
   response: 7AB0562113802CE

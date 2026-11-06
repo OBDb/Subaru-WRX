@@ -4,6 +4,9 @@ test_cases:
     WRX_BAT_TERMINAL_VOLTAGE: 14.27
   response: 7AA0562132137BE
 - expected_values:
+    WRX_BAT_TERMINAL_VOLTAGE: 14.29
+  response: 7AA0562132137D2
+- expected_values:
     WRX_BAT_TERMINAL_VOLTAGE: 14.293
   response: 7AA0562132137D5
 - expected_values:

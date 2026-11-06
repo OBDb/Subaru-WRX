@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     WRX_ESTIMATED_BAT_T: 23.5
   response: 7AA05621323007F
+- expected_values:
+    WRX_ESTIMATED_BAT_T: 24
+  response: 7AA056213230080

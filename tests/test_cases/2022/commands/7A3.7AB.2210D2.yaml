@@ -12,3 +12,9 @@ test_cases:
 - expected_values:
     WRX_CVT_T: 27
   response: 7AB046210D24D
+- expected_values:
+    WRX_CVT_T: 67
+  response: 7AB046210D275
+- expected_values:
+    WRX_CVT_T: 70
+  response: 7AB046210D278

@@ -1,6 +1,9 @@
 command_id: 7A3.7AB.22113E
 test_cases:
 - expected_values:
+    WRX_ACTUAL_GEAR_RATIO: 2.39847
+  response: 7AB0562113E0266
+- expected_values:
     WRX_ACTUAL_GEAR_RATIO: 2.43363
   response: 7AB0562113E026F
 - expected_values:

@@ -1,0 +1,14 @@
+command_id: 7A2.7AA.2210B1
+test_cases:
+- expected_values:
+    WRX_EGR_STEPS: 0
+  response: 7AA046210B100
+- expected_values:
+    WRX_EGR_STEPS: 3
+  response: 7AA046210B103
+- expected_values:
+    WRX_EGR_STEPS: 4
+  response: 7AA046210B104
+- expected_values:
+    WRX_EGR_STEPS: 5
+  response: 7AA046210B105

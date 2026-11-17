@@ -1,0 +1,20 @@
+command_id: 7A2.7AA.2210B4
+test_cases:
+- expected_values:
+    WRX_INTAKE_VVT_ADVANCE_RIGHT: -26
+  response: 7AA046210B418
+- expected_values:
+    WRX_INTAKE_VVT_ADVANCE_RIGHT: -19
+  response: 7AA046210B41F
+- expected_values:
+    WRX_INTAKE_VVT_ADVANCE_RIGHT: -16
+  response: 7AA046210B422
+- expected_values:
+    WRX_INTAKE_VVT_ADVANCE_RIGHT: -15
+  response: 7AA046210B423
+- expected_values:
+    WRX_INTAKE_VVT_ADVANCE_RIGHT: -1
+  response: 7AA046210B431
+- expected_values:
+    WRX_INTAKE_VVT_ADVANCE_RIGHT: 0
+  response: 7AA046210B432

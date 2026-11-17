@@ -1,0 +1,11 @@
+command_id: 7A2.7AA.2210AE
+test_cases:
+- expected_values:
+    WRX_CPC_VALVE_DUTY_CYCLE: 0
+  response: 7AA046210AE00
+- expected_values:
+    WRX_CPC_VALVE_DUTY_CYCLE: 4.31373
+  response: 7AA046210AE0B
+- expected_values:
+    WRX_CPC_VALVE_DUTY_CYCLE: 5.4902
+  response: 7AA046210AE0E

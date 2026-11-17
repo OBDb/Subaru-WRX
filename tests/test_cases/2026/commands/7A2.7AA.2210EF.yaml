@@ -1,0 +1,20 @@
+command_id: 7A2.7AA.2210EF
+test_cases:
+- expected_values:
+    WRX_EXHAUST_OCV_DUTY_LEFT: 41.56863
+  response: 7AA046210EF6A
+- expected_values:
+    WRX_EXHAUST_OCV_DUTY_LEFT: 41.96078
+  response: 7AA046210EF6B
+- expected_values:
+    WRX_EXHAUST_OCV_DUTY_LEFT: 42.35294
+  response: 7AA046210EF6C
+- expected_values:
+    WRX_EXHAUST_OCV_DUTY_LEFT: 51.76471
+  response: 7AA046210EF84
+- expected_values:
+    WRX_EXHAUST_OCV_DUTY_LEFT: 54.5098
+  response: 7AA046210EF8B
+- expected_values:
+    WRX_EXHAUST_OCV_DUTY_LEFT: 56.86275
+  response: 7AA046210EF91

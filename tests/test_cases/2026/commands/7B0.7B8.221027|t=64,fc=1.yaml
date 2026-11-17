@@ -1,0 +1,23 @@
+command_id: 7B0.7B8.221027|t=64,fc=1
+test_cases:
+- expected_values:
+    WRX_RL_VSS: 0
+  response: 7B8056210270000
+- expected_values:
+    WRX_RL_VSS: 4.3875
+  response: 7B805621027004E
+- expected_values:
+    WRX_RL_VSS: 15.01875
+  response: 7B805621027010B
+- expected_values:
+    WRX_RL_VSS: 16.14375
+  response: 7B805621027011F
+- expected_values:
+    WRX_RL_VSS: 29.64375
+  response: 7B805621027020F
+- expected_values:
+    WRX_RL_VSS: 31.66875
+  response: 7B8056210270233
+- expected_values:
+    WRX_RL_VSS: 31.8375
+  response: 7B8056210270236

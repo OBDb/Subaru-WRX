@@ -1,0 +1,14 @@
+command_id: 7A2.7AA.221121
+test_cases:
+- expected_values:
+    WRX_TARGET_ENGINE_SPEED: 700
+  response: 7AA056211210AF0
+- expected_values:
+    WRX_TARGET_ENGINE_SPEED: 703.25
+  response: 7AA056211210AFD
+- expected_values:
+    WRX_TARGET_ENGINE_SPEED: 800
+  response: 7AA056211210C80
+- expected_values:
+    WRX_TARGET_ENGINE_SPEED: 1550
+  response: 7AA056211211838

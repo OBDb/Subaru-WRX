@@ -1,32 +1,11 @@
 command_id: 7A2.7AA.221321
 test_cases:
 - expected_values:
-    WRX_BAT_TERMINAL_VOLTAGE: 14.396
-  response: 7AA05621321383C
+    WRX_BAT_TERMINAL_VOLTAGE: 12.608
+  response: 7AA056213213140
 - expected_values:
-    WRX_BAT_TERMINAL_VOLTAGE: 14.399
-  response: 7AA05621321383F
-- expected_values:
-    WRX_BAT_TERMINAL_VOLTAGE: 14.404
-  response: 7AA056213213844
-- expected_values:
-    WRX_BAT_TERMINAL_VOLTAGE: 14.41
-  response: 7AA05621321384A
-- expected_values:
-    WRX_BAT_TERMINAL_VOLTAGE: 14.415
-  response: 7AA05621321384F
-- expected_values:
-    WRX_BAT_TERMINAL_VOLTAGE: 14.42
-  response: 7AA056213213854
-- expected_values:
-    WRX_BAT_TERMINAL_VOLTAGE: 14.423
-  response: 7AA056213213857
-- expected_values:
-    WRX_BAT_TERMINAL_VOLTAGE: 14.438
-  response: 7AA056213213866
-- expected_values:
-    WRX_BAT_TERMINAL_VOLTAGE: 14.449
-  response: 7AA056213213871
+    WRX_BAT_TERMINAL_VOLTAGE: 14.349
+  response: 7AA05621321380D
 - expected_values:
     WRX_BAT_TERMINAL_VOLTAGE: 14.457
   response: 7AA056213213879

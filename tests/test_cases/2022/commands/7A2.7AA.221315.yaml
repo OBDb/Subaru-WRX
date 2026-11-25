@@ -1,6 +1,12 @@
 command_id: 7A2.7AA.221315
 test_cases:
 - expected_values:
+    WRX_MONITOR_2: 693
+  response: 7AA056213150AD4
+- expected_values:
+    WRX_MONITOR_2: 701.75
+  response: 7AA056213150AF7
+- expected_values:
     WRX_MONITOR_2: 786.5
   response: 7AA056213150C4A
 - expected_values:

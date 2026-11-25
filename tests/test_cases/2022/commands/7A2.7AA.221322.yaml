@@ -16,6 +16,9 @@ test_cases:
     WRX_BAT_CHARGE_DISCHARGE_CURRENT: 4.656
   response: 7AA07621322001E96B0
 - expected_values:
+    WRX_BAT_CHARGE_DISCHARGE_CURRENT: 4.811
+  response: 7AA07621322001E974B
+- expected_values:
     WRX_BAT_CHARGE_DISCHARGE_CURRENT: 4.935
   response: 7AA07621322001E97C7
 - expected_values:

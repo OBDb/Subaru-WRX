@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     WRX_ENGINE_STARTING_TIME: 770
   response: 7AA0562129C004D
+- expected_values:
+    WRX_ENGINE_STARTING_TIME: 930
+  response: 7AA0562129C005D

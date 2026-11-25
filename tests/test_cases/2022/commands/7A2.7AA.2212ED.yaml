@@ -4,6 +4,12 @@ test_cases:
     WRX_MASS_AIR_FLOW_AVERAGE: 2.79
   response: 7AA056212ED0117
 - expected_values:
+    WRX_MASS_AIR_FLOW_AVERAGE: 3.18
+  response: 7AA056212ED013E
+- expected_values:
+    WRX_MASS_AIR_FLOW_AVERAGE: 3.23
+  response: 7AA056212ED0143
+- expected_values:
     WRX_MASS_AIR_FLOW_AVERAGE: 4
   response: 7AA056212ED0190
 - expected_values:

@@ -1,0 +1,17 @@
+command_id: '746.221032'
+test_cases:
+- expected_values:
+    WRX_STEER_ANGLE_746: 0
+  response: '74E0462103200'
+- expected_values:
+    WRX_STEER_ANGLE_746: 15
+  response: '74E0462103203'
+- expected_values:
+    WRX_STEER_ANGLE_746: 200
+  response: '74E0462103228'
+- expected_values:
+    WRX_STEER_ANGLE_746: -70
+  response: 74E04621032F2
+- expected_values:
+    WRX_STEER_ANGLE_746: -5
+  response: 74E04621032FF

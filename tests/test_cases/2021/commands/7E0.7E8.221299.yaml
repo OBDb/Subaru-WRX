@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221299
+test_cases:
+- expected_values:
+    WRX_TRANS_LOCK_UP: 100
+  response: 7E804621299FF

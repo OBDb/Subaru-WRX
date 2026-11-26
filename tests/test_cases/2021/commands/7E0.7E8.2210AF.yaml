@@ -4,5 +4,14 @@ test_cases:
     WRX_TUMBLE_GEN_VLV_POS: 0.78
   response: 7E8046210AF27
 - expected_values:
+    WRX_TUMBLE_GEN_VLV_POS: 3.08
+  response: 7E8046210AF9A
+- expected_values:
+    WRX_TUMBLE_GEN_VLV_POS: 3.1
+  response: 7E8046210AF9B
+- expected_values:
+    WRX_TUMBLE_GEN_VLV_POS: 3.12
+  response: 7E8046210AF9C
+- expected_values:
     WRX_TUMBLE_GEN_VLV_POS: 3.14
   response: 7E8046210AF9D

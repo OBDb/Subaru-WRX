@@ -1,17 +1,8 @@
 command_id: 7E0.7E8.221276
 test_cases:
 - expected_values:
-    WRX_SUB_THROTTLE_SENS: 0.6
-  response: 7E8046212761E
+    WRX_SUB_THROTTLE_SENS: 0.58
+  response: 7E8046212761D
 - expected_values:
-    WRX_SUB_THROTTLE_SENS: 0.64
-  response: '7E80462127620'
-- expected_values:
-    WRX_SUB_THROTTLE_SENS: 0.76
-  response: '7E80462127626'
-- expected_values:
-    WRX_SUB_THROTTLE_SENS: 0.78
-  response: '7E80462127627'
-- expected_values:
-    WRX_SUB_THROTTLE_SENS: 0.9
-  response: 7E8046212762D
+    WRX_SUB_THROTTLE_SENS: 1.44
+  response: '7E80462127648'

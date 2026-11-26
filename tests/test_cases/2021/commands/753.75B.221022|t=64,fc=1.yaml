@@ -7,8 +7,8 @@ test_cases:
     WRX_TP_RR: null
   response: 75B0762102200000000
 - expected_values:
-    WRX_TP_RL: 29.6
-  response: 75B0762102200000094
+    WRX_TP_RL: 29.4
+  response: 75B0762102200000093
 - expected_values:
     WRX_TP_RR: 27.2
   response: 75B0762102200008800

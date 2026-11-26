@@ -4,6 +4,12 @@ test_cases:
     WRX_SUB_ACCEL_SENS: 0.66
   response: '7E80462127821'
 - expected_values:
+    WRX_SUB_ACCEL_SENS: 0.72
+  response: '7E80462127824'
+- expected_values:
+    WRX_SUB_ACCEL_SENS: 0.74
+  response: '7E80462127825'
+- expected_values:
     WRX_SUB_ACCEL_SENS: 0.82
   response: '7E80462127829'
 - expected_values:
@@ -12,3 +18,6 @@ test_cases:
 - expected_values:
     WRX_SUB_ACCEL_SENS: 0.94
   response: 7E8046212782F
+- expected_values:
+    WRX_SUB_ACCEL_SENS: 1.48
+  response: 7E8046212784A

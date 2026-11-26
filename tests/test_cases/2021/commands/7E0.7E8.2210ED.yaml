@@ -4,5 +4,11 @@ test_cases:
     WRX_EXH_VVT_RETARD_ANG_LEFT: 0
   response: 7E8046210ED32
 - expected_values:
+    WRX_EXH_VVT_RETARD_ANG_LEFT: 8
+  response: 7E8046210ED3A
+- expected_values:
+    WRX_EXH_VVT_RETARD_ANG_LEFT: 18
+  response: 7E8046210ED44
+- expected_values:
     WRX_EXH_VVT_RETARD_ANG_LEFT: 28
   response: 7E8046210ED4E

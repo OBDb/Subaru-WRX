@@ -4,8 +4,14 @@ test_cases:
     WRX_INT_VVT_ADVANCE_TGT_ANG: -19
   response: 7E8046212901F
 - expected_values:
+    WRX_INT_VVT_ADVANCE_TGT_ANG: -13
+  response: '7E80462129025'
+- expected_values:
     WRX_INT_VVT_ADVANCE_TGT_ANG: 0
   response: '7E80462129032'
 - expected_values:
     WRX_INT_VVT_ADVANCE_TGT_ANG: 13
   response: 7E8046212903F
+- expected_values:
+    WRX_INT_VVT_ADVANCE_TGT_ANG: 28
+  response: 7E8046212904E

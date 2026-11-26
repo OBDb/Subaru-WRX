@@ -6,3 +6,9 @@ test_cases:
 - expected_values:
     WRX_ELEC_LOAD_FEEDBACK: 0
   response: 7E80562128D0012
+- expected_values:
+    WRX_ELEC_LOAD_FEEDBACK: 0
+  response: 7E80562128D0040
+- expected_values:
+    WRX_ELEC_LOAD_FEEDBACK: 0
+  response: 7E80562128D006E

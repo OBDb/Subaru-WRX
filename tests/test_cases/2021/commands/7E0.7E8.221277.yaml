@@ -4,14 +4,5 @@ test_cases:
     WRX_MAIN_THROTTLE_SENS: 0.6
   response: 7E8046212771E
 - expected_values:
-    WRX_MAIN_THROTTLE_SENS: 0.62
-  response: 7E8046212771F
-- expected_values:
-    WRX_MAIN_THROTTLE_SENS: 0.66
-  response: '7E80462127721'
-- expected_values:
-    WRX_MAIN_THROTTLE_SENS: 0.76
-  response: '7E80462127726'
-- expected_values:
-    WRX_MAIN_THROTTLE_SENS: 1.06
-  response: '7E80462127735'
+    WRX_MAIN_THROTTLE_SENS: 1.98
+  response: '7E80462127763'
